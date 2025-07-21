@@ -1,2 +1,2 @@
 # Tally-TDL
-Some useful TDL for tally prime
+Some useful TDLs for Tally Prime for accountants.
